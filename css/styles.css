@@ -1,0 +1,331 @@
+img { max-width: 100%; }
+
+.navbar { margin-bottom: 0; }
+.bottom-space { margin-top: 49px !important; }
+.padding-tobo { padding-top: 20px; padding-bottom: 20px; }
+.less-margin { margin-top: -30px; }
+
+.navbar-default {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #FFFFFF;
+	padding-bottom: 20px;
+}
+
+.navbar-default .navbar-nav > li > a:hover { color: #E5E5E5; }
+
+ul.dropdown-menu { background-color: #5e0a0a; }
+
+.dropdown-menu > li > a { color: #FFFFFF; }
+
+.dropdown-menu > li > a:hover {
+	background-color: #300506;
+	color: #FFFFFF;
+}
+
+.contenedor-servicios-fondo {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+	height: 260px;
+}
+
+.contenedor-servicios-fondo-mb {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+}
+
+
+
+.servicio-individual {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 230px;
+}
+
+.servicio-individual a img { padding-top: 30px; }
+
+.servicio-individual p { color: #FFFFFF; }
+
+.servicio-individual a, .servicio-individual-mb a { color: #FFFFFF; }
+
+
+.ahorro {
+	border-left: rgba(0,0,0,0.2) solid 3px;
+	position: absolute;
+	z-index: 101;
+	top: 78%;
+	left: 12%;
+}
+
+.prestamo {
+	position: absolute;
+	z-index: 101;
+	top: 78%;
+	left: 37%;
+}
+
+.promocion {
+	position: absolute;
+	z-index: 101;
+	top: 78%;
+	left: 62%;
+	border-right: rgba(0,0,0,0.2) solid 3px;
+}
+
+.logo { margin-top: 3px !important; }
+.logo-link { }
+
+.leyenda {
+	background-color: #E2E8E7;
+	height: auto;
+	color: #92123C;
+	text-align: center;
+}
+
+.legend {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+	color: #FF8400;
+	height: 80px;
+}
+
+.leyenda h1, .leyenda h2 { margin-bottom: 20px; }
+
+.caracteristicas { padding-top: 20px; }
+
+.linea-prefooter {
+	height: 15px;
+	background-color: #300506;
+}
+
+.linea-footer {
+	height: 3px;
+	background-color: #300506;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.linea-separador {
+	height: 5px;
+	background-color: #BCBCBC;
+}
+
+.footer {
+	height: auto;
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+	padding-top: 30px;
+}
+
+
+.footer-legend { color: #dedede; }
+.footer-extra-up { margin-top: 20px; }
+.footer-font-bigger { font-size: 1.5em; }
+
+.font-sm  {
+	line-height: 70%;
+}
+
+.redes span { color: #FFFFFF; font-size: 1.5em; }
+.redes span, img { vertical-align: middle; }
+.redes p { color: #FFFFFF; font-size: 0.8em; }
+
+.copy { padding-top: 60px; }
+
+.separador-vertical {
+	margin-right: 100%;
+	width: 1px;
+	height: 180px;
+	border-left: #300506 solid 2px;
+}
+
+.separador-horizontal {
+	height: 25px;
+	width: 100%;
+	border-bottom: #300506 solid 2px;
+}
+
+.s-horizon {
+	height: 5px;
+	width: 100%;
+	border-bottom: #300506 solid 2px;
+	margin-bottom: 7px;
+}
+
+.s-horizon-nmb {
+	height: 5px;
+	width: 100%;
+	border-bottom: #300506 solid 2px;
+}
+
+
+.form-contacto {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.error { color: #A94442; }
+
+input.error, textarea.error { border-color: #A94442; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset; }
+
+.contacto-extra { margin-top: 90px; }
+
+.contacto-extra img { margin-bottom: 30px; }
+
+.contacto-extra-mb img { margin-bottom: 15px; }
+
+.loading, .message { margin-top: 15px; }
+
+/* Educacion Cooperativa */
+
+.finanzas h1 { color: #FF8400; }
+
+.finanzas p { color: #FFFFFF; }
+
+
+
+
+.bajar-tabs, .bajar-contenido-tabs { margin-top: 10px; }
+.bajar-contenido-tabs { margin-bottom: 10px; }
+
+.nav-tabs > li > a {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+	color: #FF8400;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.info-tabs {
+	border: #CFCFCF solid 1px;
+	border-radius: 10px;
+	margin-bottom: 5px;
+}
+
+.info-tabs h3 { color: #0777B0; }
+
+
+/* Sucursales */
+
+.sucursales { margin-top: 20px; }
+
+/* Quienes somos */
+
+ul.principios { list-style: none; }
+ul.principios img { padding-right: 5px; }
+ul.principios li { font-size: 1.3em; }
+
+ul.principios-mb { list-style: none; }
+ul.principios-mb img { padding-right: 5px; }
+ul.principios-mb li { font-size: 1.1em; margin-left: -20px !important; }
+
+
+.historia { background-color: #035580; margin-top: -30px; color: white; margin-bottom: 20px; }
+.mision-vision { background-color: #035580; color: white; margin-bottom: 20px; }
+.mision-vision-texto, .historia-texto { font-size: 1.2em; }
+.principios-valores { margin-bottom: 20px; }
+
+
+
+.mv-pp { padding: 30px; font-size: 2em; }
+.mv-mv { padding: 30px; font-size: 1.3em; text-align: justify; }
+.mv-nv { padding: 30px; font-size: 1.3em; }
+.orgpa { padding-top: 30px; padding-bottom: 30px; }
+.mv-nh { padding: 30px; }
+.mv-nh h3 { padding-bottom: 20px; }
+.mv-nh p { font-size: 1.3em; padding: 5px; text-align: justify; }
+.pv { font-size: 1.5em; }
+.pv h2 { padding-bottom: 20px; }
+.pv > li { padding-bottom: 10px; }
+
+
+
+/* Servicios Adicionales */
+
+
+/* Microseguros */
+#micro-redgente { margin-top: 10px; }
+
+/* Creditos */
+
+.credicane { height: 20px; }
+.credi-separador { height: 3px; background-color: #FAEBCC; margin-bottom: 20px; }
+.img-creditos { margin-top: 20px; margin-bottom: 20px; }
+.below-img-creditos { padding-top: 10px; padding-bottom: 10px; border-color: #FAEBCC; border-radius: 5px; }
+.opacity:hover { opacity: 0.7; }
+
+/* Comunicacion */
+.fb-post, .mtop-twenty { margin-top: 20px; }
+
+/* Index */
+.capital-letter { font-size: 2em; 	}
+.after-capital 	{ font-size: 1.5em; color: #6f6f6f; }
+.font-white 	{ color: white; }
+.font-sm 		{ font-size: 0.75em; }
+.padding-l-20   { padding-left: 40px; }
+.bienvenida h1 { font-size: 3em; margin-bottom: 30px; }
+.bienvenida p, .bienvenida ul li { font-size: 1.2em; }
+.bienvenida p:last-child { margin-bottom: 50px; }
+.bienvenidax { margin-top: 100px; }
+
+/* Cuentas de Ahorro */
+.padding-t-10   { padding-top: 10px;     }
+.padding-t-20 	{ padding-top: 20px;     }
+.no-border-top 	{ border-top: 0; 	     }
+.no-padding-top { padding-top: 0; 	     }
+.ib-title img, .ib-title h4 { display: inline-block; }
+
+/* General */
+.padding-b-20 { padding-bottom: 20px; }
+
+.main-bg-color {
+	background: -webkit-linear-gradient(top, #5e0a0a, #52090a);
+	background: -moz-linear-gradient(top, #5e0a0a, #52090a);
+	background: linear-gradient(top, #5e0a0a, #52090a);
+}
+
+.temporal-padding { height: 450px; }
+
+.no-outline a { outline: none; }
+
+
+.footer { color: #FFFFFF; }
+.texto-footer { padding-top: 10px; padding-bottom: 10px; padding-left: 30px; padding-right: 30px; }
+.texto-footer p, .texto-footer span { display: block; }
+.texto-footer p { font-size: 0.75em; }
+.texto-footer span { font-size: 0.70em; }
+
+/* Requisitos */
+img.img-req { margin-top: 20px; }
+
+.foo-movil p { font-size: 0.7em; }
+
+.responsive-video
+{
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	position: relative;
+}
+
+.responsive-video object, embed, iframe, video
+{
+	margin-top: 30px;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+} 
+
